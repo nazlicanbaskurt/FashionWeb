@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "img": "img/categories/categories1.png"
+  },
+  {
+    "id": 2,
+    "name": "Watch",
+    "img": "img/categories/categories2.png"
+  },
+  {
+    "id": 3,
+    "name": "Headphone",
+    "img": "img/categories/categories3.png"
+  },
+  {
+    "id": 4,
+    "name": "Chair",
+    "img": "img/categories/categories4.png"
+  }
+]
